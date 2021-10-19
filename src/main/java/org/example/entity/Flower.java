@@ -1,8 +1,7 @@
 package org.example.entity;
-
 import lombok.Getter;
-@Getter
 
+@Getter
 public class Flower extends Plant{
     private final String colorOfFlower;
 

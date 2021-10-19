@@ -1,9 +1,7 @@
 package org.example.entity;
-
 import lombok.Getter;
 
 @Getter
-
 public enum PotColor {
     BLACK("black"), WHITE("white"), BROWN("brown");
     private final String value;
